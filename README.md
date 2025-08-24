@@ -7,7 +7,7 @@
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+Project repo: https://github.com/ishvin712/IR-System.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
